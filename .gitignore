@@ -2,5 +2,9 @@
 
 C/bin
 C/obj
+C/*.layout
+C/*.depend
 Java/out/
 Java/.idea/
+*.o
+*.exe
