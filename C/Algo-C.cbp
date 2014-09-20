@@ -31,7 +31,7 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="src/strings/KMP.c">
+		<Unit filename="src/sorting/QuickSort.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>
