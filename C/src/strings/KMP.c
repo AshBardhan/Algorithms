@@ -44,9 +44,6 @@ int main()
 {
   char *string="hereroheroero";
   char *pattern="hero";
-
   MorrisPrat(pattern,strlen(pattern),string,strlen(string));
-
-  printf("\n\n");
   return 0;
 }

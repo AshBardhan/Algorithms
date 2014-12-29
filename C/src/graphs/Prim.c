@@ -219,7 +219,6 @@ void prim()
   if(ed[k].ind == 1)
    printf("\n Edge '%c%c' weight : %d ",ed[k].u,ed[k].v,ed[k].wuv);
  }
- getch();
 }
 
 int main()
